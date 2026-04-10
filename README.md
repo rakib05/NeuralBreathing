@@ -12,7 +12,6 @@ Mowla MR, Rhone AE, Kumar S, et al. Human forebrain neural synchronization and e
 ## Overview
 
 - `NeuralbreathingScript.m` — Main analysis script for computing breathing–LFP coherence across conditions using a GLM-based framework
-- `GLMvsSurrogateTest.m` — Validation comparing GLM-based significance to phase-randomized surrogate testing
 - `reqfunc/` — Helper functions for plotting, brain visualization, and ROI management
 
 ## Requirements
