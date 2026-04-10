@@ -23,8 +23,7 @@ Mowla MR, Rhone AE, Kumar S, et al. Human forebrain neural synchronization and e
 
 ## Data
 
-Processed coherence data and source data are available on Figshare:
-https://doi.org/10.6084/m9.figshare.30324553
+Processed coherence data and source data are available on Zenodo (DOI will be added upon release).
 
 Raw intracranial data are available from the corresponding author upon request, subject to a data sharing agreement.
 
